@@ -1,0 +1,1 @@
+# The-Impact-of-Twitter-Sentiments-on-Stock-Market-Trends

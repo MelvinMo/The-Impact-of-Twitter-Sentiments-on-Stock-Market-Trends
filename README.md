@@ -20,3 +20,5 @@ We calculated the bullishness variable by determining the ratio of positive twee
 So, our focus was to concisely illustrate an interdisciplinary approach combining computer science (machine learning, data mining, and natural language processing) and finance to predict stock market trends using sentiment analysis on Twitter data, which was successful in the end.
 
 The codes and the pdf version of the research are both available in this repository.
+
+For citation click at [this link.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Ae7LzEAAAAJ&citation_for_view=1Ae7LzEAAAAJ:u5HHmVD_uO8C)

@@ -21,4 +21,4 @@ So, our focus was to concisely illustrate an interdisciplinary approach combinin
 
 The codes and the pdf version of the research are both available in this repository.
 
-For citation click at [this link.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Ae7LzEAAAAJ&citation_for_view=1Ae7LzEAAAAJ:u5HHmVD_uO8C)
+To cite this paper, check out [this link.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Ae7LzEAAAAJ&citation_for_view=1Ae7LzEAAAAJ:u5HHmVD_uO8C)

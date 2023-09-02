@@ -3,7 +3,7 @@ This is a research paper named "The Impact of Twitter Sentiments on Stock Market
 
 The primary objective of the research was to understand the influence of Twitter sentiment on the trends of the top stock symbols in the S&P 500 index. We used the Twitter data over a three-month period, focusing on the volume, sentiment, and mentions of the top five S&P 500 stock symbols: Apple, Facebook, Tesla, Amazon, and Microsoft.
 
-We utilized various machine learning and natural language processing techniques to perform this analysis. We implemented three algorithms: long-short-term memory (LSTM), Bernoulli-naive Bayes, and random forest.
+We utilized various machine learning and natural language processing techniques to perform this analysis. We implemented three algorithms: Long Short-Term Memory (LSTM), Bernoulli Naive Bayes, and Random Forest.
 
 The LSTM model, a type of recurrent neural network, was used due to its ability to learn from the temporal dynamics of sequences, which is vital when dealing with time-sensitive data like tweets and stock prices.
 
